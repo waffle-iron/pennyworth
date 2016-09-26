@@ -1,7 +1,9 @@
 # pennyworth
 
-## Yet another CRM based on
+[![Build Status](https://travis-ci.org/StandardNerd/pennyworth.svg?branch=master)](https://travis-ci.org/StandardNerd/pennyworth)
+[![Coverage Status](https://coveralls.io/repos/github/StandardNerd/pennyworth/badge.svg?branch=master)](https://coveralls.io/github/StandardNerd/pennyworth?branch=master)
 
+## Yet another CRM based on
 
 * Ruby 2.2.5
 * Rails 5
