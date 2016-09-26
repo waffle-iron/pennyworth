@@ -271,4 +271,8 @@ Devise.setup do |config|
   # When using OmniAuth, Devise cannot automatically set OmniAuth path,
   # so you need to do it manually. For the users scope, it would be:
   # config.omniauth_path_prefix = '/my_engine/users/auth'
+
+  # Configuration for :validatable
+  config.password_length = 10..128
+  config.email_regexp = /\A[^@]+@example\.com\z/
 end
