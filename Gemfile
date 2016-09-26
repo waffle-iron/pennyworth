@@ -41,6 +41,7 @@ group :development, :test do
   gem 'pry-rails'
   gem 'pry-byebug'
   gem 'pry-stack_explorer'
+  gem 'selenium-webdriver', '~> 3.0.0.beta3.1'
   gem 'rubocop'
 end
 
@@ -55,6 +56,7 @@ group :test do
   gem 'database_cleaner'
   gem 'guard-rspec'
   gem 'guard-livereload'
+  gem 'launchy'
   gem 'poltergeist'
 end
 
