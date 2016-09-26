@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/StandardNerd/pennyworth.png?label=ready&title=Ready)](https://waffle.io/StandardNerd/pennyworth)
 # pennyworth
 
 [![Build Status](https://travis-ci.org/StandardNerd/pennyworth.svg?branch=master)](https://travis-ci.org/StandardNerd/pennyworth)
